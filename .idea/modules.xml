@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataDrivenProject_json/.idea/DataDrivenProject.iml" filepath="$PROJECT_DIR$/../DataDrivenProject_json/.idea/DataDrivenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataDriven_database/.idea/DataDriven_database.iml" filepath="$PROJECT_DIR$/../DataDriven_database/.idea/DataDriven_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataDriven_excel/.idea/DataDriven_excel.iml" filepath="$PROJECT_DIR$/../DataDriven_excel/.idea/DataDriven_excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataDriven_xml/.idea/DataDriven_xml.iml" filepath="$PROJECT_DIR$/../DataDriven_xml/.idea/DataDriven_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PaChong/.idea/PaChong.iml" filepath="$PROJECT_DIR$/../PaChong/.idea/PaChong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../python_Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_practice/.idea/Selenium_practice.iml" filepath="$PROJECT_DIR$/../Selenium_practice/.idea/Selenium_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baidu_test/.idea/baidu_test.iml" filepath="$PROJECT_DIR$/../baidu_test/.idea/baidu_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_practice/logging_module/.idea/logging_module.iml" filepath="$PROJECT_DIR$/../Selenium_practice/logging_module/.idea/logging_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypro/.idea/mypro.iml" filepath="$PROJECT_DIR$/../mypro/.idea/mypro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_test/.idea/py_test.iml" filepath="$PROJECT_DIR$/../py_test/.idea/py_test.iml" />
+      <module fileurl="file://G:/PyCharm/接口自动化requests基础/.idea/scripts.iml" filepath="G:/PyCharm/接口自动化requests基础/.idea/scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" />
+      <module fileurl="file://G:/PyCharm/selenium 读取ini配置文件/.idea/selenium 读取ini配置文件.iml" filepath="G:/PyCharm/selenium 读取ini配置文件/.idea/selenium 读取ini配置文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_practice/selenium_jichu/.idea/selenium_jichu.iml" filepath="$PROJECT_DIR$/../Selenium_practice/selenium_jichu/.idea/selenium_jichu.iml" />
+      <module fileurl="file://G:/PyCharm/selenium_po/.idea/selenium_po.iml" filepath="G:/PyCharm/selenium_po/.idea/selenium_po.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../requests_interface/.idea/tcs_interface.iml" filepath="$PROJECT_DIR$/../requests_interface/.idea/tcs_interface.iml" />
+      <module fileurl="file://G:/PyCharm/test_Swiss_Re_POC/.idea/test_Swiss_Re_POC.iml" filepath="G:/PyCharm/test_Swiss_Re_POC/.idea/test_Swiss_Re_POC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/three.iml" filepath="$PROJECT_DIR$/.idea/three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_practice/z_selenium_gaoji/.idea/z_selenium_gaoji.iml" filepath="$PROJECT_DIR$/../Selenium_practice/z_selenium_gaoji/.idea/z_selenium_gaoji.iml" />
+      <module fileurl="file://G:/PyCharm/黑马头条接口自动化实战/.idea/黑马头条接口自动化实战.iml" filepath="G:/PyCharm/黑马头条接口自动化实战/.idea/黑马头条接口自动化实战.iml" />
+    </modules>
+  </component>
+</project>

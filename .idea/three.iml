@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="mypro" />
+    <orderEntry type="module" module-name="Selenium_practice" />
+    <orderEntry type="module" module-name="Selenium_practice" />
+    <orderEntry type="module" module-name="Selenium_practice" />
+    <orderEntry type="module" module-name="DataDrivenProject" />
+    <orderEntry type="module" module-name="Selenium_practice" />
+    <orderEntry type="module" module-name="Practice" />
+    <orderEntry type="module" module-name="DataDriven_excel" />
+    <orderEntry type="module" module-name="mypro" />
+    <orderEntry type="module" module-name="tcs_interface" />
+    <orderEntry type="module" module-name="selenium" />
+    <orderEntry type="module" module-name="PaChong" />
+    <orderEntry type="module" module-name="py_test" />
+    <orderEntry type="module" module-name="Selenium_practice" />
+    <orderEntry type="module" module-name="logging_module" />
+    <orderEntry type="module" module-name="z_selenium_gaoji" />
+    <orderEntry type="module" module-name="selenium_jichu" />
+    <orderEntry type="module" module-name="DataDriven_xml" />
+    <orderEntry type="module" module-name="DataDriven_database" />
+    <orderEntry type="module" module-name="baidu_test" />
+    <orderEntry type="module" module-name="selenium_po" />
+    <orderEntry type="module" module-name="selenium_po" />
+    <orderEntry type="module" module-name="selenium 读取ini配置文件" />
+    <orderEntry type="module" module-name="selenium 读取ini配置文件" />
+    <orderEntry type="module" module-name="scripts" />
+    <orderEntry type="module" module-name="黑马头条接口自动化实战" />
+    <orderEntry type="module" module-name="scripts" />
+    <orderEntry type="module" module-name="test_Swiss_Re_POC" />
+  </component>
+</module>
